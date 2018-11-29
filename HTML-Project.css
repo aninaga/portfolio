@@ -1,6 +1,45 @@
 .index{
-    background-image: url(images/leo.jpg);
+    background: url(images/greg-rakozy-53292-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     height:75vh;
     width: 100%;
-    opacity: 10;
+    z-index: 999999
+}
+.about{
+    background: url(images/nitish-meena-37745-unsplash.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height:75vh;
+    width: 100%;
+    z-index: 999999999
+}
+.easy{
+    background: url(images/easy.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:75vh;
+    width: 100%;
+    z-index: 99999999
+}
+.round{
+    border-radius: 50%;
+}
+.master{
+    background: url(images/masterrrr.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height:75vh;
+    width: 100%;
+    z-index: 999999999
+}
+.red{
+    background: url(images/red.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    height:75vh;
+    width: 100%;
+    z-index: 999999999
 }
