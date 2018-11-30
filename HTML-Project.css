@@ -5,7 +5,7 @@
     background-repeat: no-repeat;
     height:75vh;
     width: 100%;
-    z-index: 999999
+    z-index: 999999;
 }
 .about{
     background: url(images/nitish-meena-37745-unsplash.jpg);
@@ -42,4 +42,7 @@
     height:75vh;
     width: 100%;
     z-index: 999999999
+}
+.text-primary{
+    color:#2F4B7A;
 }
