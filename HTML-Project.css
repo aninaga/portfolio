@@ -1,5 +1,5 @@
 .index{
-    background: url(images/greg-rakozy-53292-unsplash.jpg);
+    background: url(images/code.jpeg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -16,7 +16,7 @@
     z-index: 999999999
 }
 .easy{
-    background: url(images/easy.jpeg);
+    background: url(images/stocks4.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -28,7 +28,8 @@
     border-radius: 50%;
 }
 .master{
-    background: url(images/masterrrr.jpg);
+    background: url(images/greg-rakozy-53292-unsplash.jpg);
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     height:75vh;
